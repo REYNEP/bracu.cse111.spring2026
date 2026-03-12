@@ -1,8 +1,0 @@
-public class Course{
-  
-  public String nm;
-  public String co;
-  public int cr;
-  
-  
-}

@@ -1,8 +1,0 @@
-public class Course{
-  
-  public String cm;
-  public String code;
-  public int cr;
-  
-}
-  
