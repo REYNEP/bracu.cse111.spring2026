@@ -14,6 +14,15 @@
 ### TODO:
 - Upload Videos that are not on youtube
 
+### Recommendation
+0. Take TAW > AVB > MAU > SLAR > ADU > RKBM > ANK > AFA
+1. Watch KNI: https://youtu.be/playlist?list=PLR0j6NckpKjyNO579D4P4qCGBSlY8Ous5
+2. Watch BuX / TAW: https://youtu.be/playlist?list=PLvr0Ht-XkB_3QPWYBje6NqEs3QLj_0vpf
+3. Don't Miss Classes.
+    - Even if you do, Try solving the problems shown in class. Check Resources/Problems
+4. Don't Miss Labs
+5. Solve LabTasks/Assignments untill you start feeling confident
+
 ### Topic List
 ```cpp
 week 01 - cse110 Recap
