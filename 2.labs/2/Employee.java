@@ -20,7 +20,6 @@ public class Employee {         /* a2q3 */
         else if (salary > 30*1000)  System.out.println(name + " Tax Amount: " + salary*0.1 + " Tk");
         else                        System.out.println("No need to pay tax");
     }
-
     public void promoteEmployee(String pDesignation) {
         this.designation = pDesignation;
     

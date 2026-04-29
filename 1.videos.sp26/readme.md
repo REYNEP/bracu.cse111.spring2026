@@ -1,72 +1,91 @@
 ### Videos
 ```cpp
-bracu.cse111 - ADU - L02.sec5: // https://youtu.be/watch?v=PxVKrhwpgyM
-bracu.cse111 - ADU - L02.sec6: // https://youtu.be/watch?v=dJ-1SLQ2s04
-bracu.cse111 - ADU - L03.sec5: // https://youtu.be/watch?v=Sn3mw9lhLeY
-bracu.cse111 - ADU - L04.sec5: // https://youtu.be/watch?v=f0JB6jHPgbk
-bracu.cse111 - ADU - L04.sec6: // https://youtu.be/watch?v=iL1cByVS3X4
-bracu.cse111 - ADU - L10.sec5: // https://youtu.be/watch?v=oRr_sMEc2jk
-bracu.cse111 - ADU - L10.sec6: // https://youtu.be/watch?v=CjJzG-CSZnY
+PS C:\Users\REY\Desktop\BRAC\bracu.cse111.spring2026\1.videos.sp26> dir
 
-bracu.cse111 - AIB - L03.sec11 - Objects:               // https://youtu.be/watch?v=r0U1QAkQ4Wc
-bracu.cse111 - AIB - L04.sec10 - Instance Methods 1:    // https://youtu.be/watch?v=HgL_oaxA81Y
-bracu.cse111 - AIB - L04.sec11 - Instance Methods 1:    // https://youtu.be/watch?v=2MDka4Z7Kds
-bracu.cse111 - AIB - L05.sec10 - Instance Methods 2:    // https://youtu.be/watch?v=BKlr9724kbk
-bracu.cse111 - AIB - L05.sec11 - Instance Methods 2:    // https://youtu.be/watch?v=NtNZO6HNObM
-bracu.cse111 - AIB - L10.sec10 - Encapsulation:         // https://youtu.be/watch?v=PRtaE87h3fk
 
-bracu.cse111 - ANK - L02 - Arrays Review
-bracu.cse111 - ANK - L03 - Methods
-bracu.cse111 - ANK - L04 - Objects
-bracu.cse111 - ANK - L05 - Objects Problems
-bracu.cse111 - ANK - L09 - Multiclass problem
-bracu.cse111 - ANK - L10
+    Directory: C:\Users\REY\Desktop\BRAC\bracu.cse111.spring2026\1.videos.sp26
 
-bracu.cse111 - KNI - L02.sec8 - OOP Basics [Bangla]:                        // https://youtu.be/watch?v=f7vzngXIot0
-bracu.cse111 - KNI - L02.sec9 - OOP Basics [English]:                       // https://youtu.be/watch?v=l9FBZ5Zraro
-bracu.cse111 - KNI - L03.sec8 - Instance Variable & Method [Bangla]:        // https://youtu.be/watch?v=XgHVQLU81Co
-bracu.cse111 - KNI - L03.sec9 - Instance Variable & Method [English]:       // https://youtu.be/watch?v=4sjqgXIbeP4
-bracu.cse111 - KNI - L04.sec8 - Instance Method + this:                     // https://youtu.be/watch?v=FbrfJXq93zM
-bracu.cse111 - KNI - L04.sec9 - Instance Method + this:                     // https://youtu.be/watch?v=-RgxeDM4tyQ
-bracu.cse111 - KNI - L05.sec8 - Instance Method with Arrays [Bangla]:       // https://youtu.be/watch?v=U3299SyLQe4
-bracu.cse111 - KNI - L06.sec0 - Method Overloading - sp25:                  // https://youtu.be/watch?v=reXr33KUewQ
-bracu.cse111 - KNI - L09.sec8 - Reference Pass and Multiclass Tracing:      // https://youtu.be/watch?v=4Djy36ujeo8
-bracu.cse111 - KNI - L10.sec0 - Access Modifier and Encapsulation - sp25:   // https://youtu.be/watch?v=VL3fBrx-GTw
 
-bracu.cse111 - MAU - L2 - [9th Feb]:                                        // https://youtu.be/watch?v=xFbZ4WrsX8Q
-bracu.cse111 - MAU - L3                                                     
-bracu.cse111 - MAU - L10 - MultiClass & Encapsulation Problem [9th March]:  // https://youtu.be/watch?v=7FKbC9L5mX4
-bracu.cse111 - QUZA - L3 - Arrays and Methods:                              // https://youtu.be/watch?v=0VQVmMqpXtI
-bracu.cse111 - QUZA - L4 - Intro to OOP, Instance Variables:                // https://youtu.be/watch?v=oeRMrcxEn-0
-
-bracu.cse111 - RKBM - L4.sec7: // https://youtu.be/watch?v=I-F7B7rXcWc
-bracu.cse111 - RKBM - L5.sec7: // https://youtu.be/watch?v=QD6WHQO4xME
-bracu.cse111 - TAW - L03.sec2: // https://youtu.be/watch?v=lqpQ5JbHUO4
-bracu.cse111 - TAW - L03.sec3: // https://youtu.be/watch?v=lqDukT4t1mk
-bracu.cse111 - TAW - L03.sec4: // https://youtu.be/watch?v=ZEOS2LYaSbM
-bracu.cse111 - TAW - L04.sec2: // https://youtu.be/watch?v=4HWRywTpKGU
-bracu.cse111 - TAW - L04.sec3: // https://youtu.be/watch?v=E-rYsvfinvs
-bracu.cse111 - TAW - L04.sec4: // https://youtu.be/watch?v=k2IVTbi1rck
-bracu.cse111 - TAW - L05.sec2: // https://youtu.be/watch?v=yTV78uOEB9E
-bracu.cse111 - TAW - L10.Sec2: // https://youtu.be/watch?v=lHfhsiqrD1w
-
-bracu.cse111.lab2 - KNI.sp25 - (OOP Basics + Instance Variable + Instance Methods): // https://youtu.be/watch?v=67Mv5jH2GnI
-
-bracu.cse111.lab4 - AVB.sec06 - 10-03-2026:             // https://youtu.be/watch?v=vNUS4bxGyMM
-bracu.cse111.lab4 - AVB.sec10 - 11-03-2026:             // https://youtu.be/watch?v=SVKHT6hxq-w
-bracu.cse111.lab4 - AVB.sec11 - 11-03-2026:             // https://youtu.be/watch?v=Y_RXMWaYbNc
-bracu.cse111.lab4 - AVB.sec15 - 10-03-2026:             // https://youtu.be/watch?v=NS5O5zAemqA
-bracu.cse111.lab4 - CRHB.sec7:                          // https://youtu.be/watch?v=1cZ7enL7Mig
-bracu.cse111.lab4 - HBN.sec5:                           // https://youtu.be/watch?v=Kvp1BeCZRj8
-bracu.cse111.lab4 - KNI.sp25 - Tracing Task 9:          // https://youtu.be/watch?v=uXW3qBxaxPo
-bracu.cse111.lab4 - KNI.sp25 - Tracing Task 10:         // https://youtu.be/watch?v=h8I-PbHQ-IA
-bracu.cse111.lab4 - KNI.sp25 - Tracing Task 11:         // https://youtu.be/watch?v=hvgitTIsO0g
-bracu.cse111.lab4 - KNI.sp25 - Tracing - Quiz 3 Set A:  // https://youtu.be/watch?v=p9rnSTXe4j4
-bracu.cse111.lab4 - YND.sec17:                          // https://youtu.be/watch?v=DAR8HwoceO4
-
-bracu.cse111.lab4 - ANK.sec16
-bracu.cse111.lab4 - ATY.sec01 - midTerm Review Tracing
-bracu.cse111.lab4 - ATY.sec01 - midTerm Review
-bracu.cse111.lab4 - ATY.sec13 - midTerm Review
-bracu.cse111.lab4 - TMD.sec08
+Mode                 LastWriteTime         Length       Name
+----                 -------------         ------       ----
+-a----        17/02/2026   2:20 AM      136964012       bracu.cse111 - ADU - L02.sec5 - [PxVKrhwpgyM].mp4
+-a----        17/02/2026   2:26 AM      134712433       bracu.cse111 - ADU - L02.sec6 - [dJ-1SLQ2s04].mp4
+-a----        17/02/2026   2:21 AM      234634802       bracu.cse111 - ADU - L03.sec5 - [Sn3mw9lhLeY].mp4
+-a----        17/02/2026   2:23 AM      211599487       bracu.cse111 - ADU - L04.sec5 - [f0JB6jHPgbk].mp4
+-a----        17/02/2026   2:27 AM      221186061       bracu.cse111 - ADU - L04.sec6 - [iL1cByVS3X4].mp4
+-a----        11/03/2026   4:37 PM      162634445       bracu.cse111 - ADU - L10.sec5 - Encapsulation [oRr_sMEc2jk].mp4
+-a----        11/03/2026   4:41 PM      147725787       bracu.cse111 - ADU - L10.sec6 - Encapsulation [CjJzG-CSZnY].mp4
+-a----        14/03/2026  10:08 PM      211852669       bracu.cse111 - ADU - L11.sec6 - Tracing [NnzQkitDa8U].mp4
+-a----        14/03/2026   1:36 AM       76586793       bracu.cse111 - AFA - L10.sec14 - [Tracing] [eHjtlCkLpfg].mp4
+-a----        17/02/2026   2:54 AM      270037925       bracu.cse111 - AIB - L03.sec11 - Objects - [r0U1QAkQ4Wc].mp4
+-a----        11/03/2026   4:51 PM      180459344       bracu.cse111 - AIB - L04.sec10 - Instance Methods 1 - [HgL_oaxA81Y].mp4
+-a----        11/03/2026   5:43 PM      192229160       bracu.cse111 - AIB - L04.sec11 - Instance Methods 1 - [2MDka4Z7Kds].mp4
+-a----        17/02/2026   2:56 AM      152722384       bracu.cse111 - AIB - L05.sec10 - Instance Methods 2 - [BKlr9724kbk].mp4
+-a----        11/03/2026   5:42 PM      149878891       bracu.cse111 - AIB - L05.sec11 - Instance Methods 2 - [NtNZO6HNObM].mp4
+-a----        11/03/2026   5:35 PM      215220340       bracu.cse111 - AIB - L10.sec10 - Encapsulation - [PRtaE87h3fk].mp4
+-a----        27/04/2026   6:26 PM      186684474       bracu.cse111 - AIB - L16.sec10 - Inheritance - 24-04-2026 [AFtkfo6v5IM].mp4
+-a----        16/02/2026   3:10 AM      227953392       bracu.cse111 - ANK - L02 - Arrays Review.mkv
+-a----        16/02/2026   3:27 AM      285896720       bracu.cse111 - ANK - L03 - Methods.mkv
+-a----        17/02/2026   3:11 AM      144510505       bracu.cse111 - ANK - L04 - Objects.mkv
+-a----        11/03/2026  11:48 PM      230331264       bracu.cse111 - ANK - L05 - Objects Problems.mkv
+-a----        11/03/2026  11:57 PM      278431760       bracu.cse111 - ANK - L09 - Multiclass problem.mkv
+-a----        11/03/2026  11:39 PM      256536305       bracu.cse111 - ANK - L10.mkv
+-a----        17/02/2026   2:39 AM      226221454       bracu.cse111 - KNI - L02.sec8 - OOP Basics [Bangla] [f7vzngXIot0].mp4
+-a----        17/02/2026   2:39 AM      197403074       bracu.cse111 - KNI - L02.sec9 - OOP Basics [English] [l9FBZ5Zraro].mp4
+-a----        17/02/2026   2:40 AM      246477176       bracu.cse111 - KNI - L03.sec8 - Instance Variable & Method [Bangla] [XgHVQLU81Co].mp4
+-a----        17/02/2026   2:40 AM      257700508       bracu.cse111 - KNI - L03.sec9 - Instance Variable & Method [English] [4sjqgXIbeP4].mp4
+-a----        17/02/2026   2:40 AM      267282597       bracu.cse111 - KNI - L04.sec8 - Instance Method + this [FbrfJXq93zM].mp4
+-a----        17/02/2026   2:45 AM      279745616       bracu.cse111 - KNI - L04.sec9 - Instance Method + this [-RgxeDM4tyQ].mp4
+-a----        11/03/2026  10:19 PM      258616286       bracu.cse111 - KNI - L05.sec8 - Instance Method with Arrays [Bangla] [U3299SyLQe4].mp4
+-a----        11/03/2026  10:38 PM      263383379       bracu.cse111 - KNI - L06.sec0 - Method Overloading - sp25 [reXr33KUewQ].mp4
+-a----        11/03/2026  10:23 PM      188512967       bracu.cse111 - KNI - L09.sec8 - Reference Pass and Multiclass Tracing [4Djy36ujeo8].mp4
+-a----        11/03/2026  10:42 PM      219599759       bracu.cse111 - KNI - L10.sec0 - Access Modifier and Encapsulation - sp25 [VL3fBrx-GTw].mp4
+-a----        15/03/2026   3:55 PM      230535971       bracu.cse111 - KNI - L11.sec8 - Multiclass Coding Problems [Bangla] [XBoi0ywNl_o].mp4
+-a----        15/03/2026   3:56 PM      181861692       bracu.cse111 - KNI - L11.sec9 - Multiclass Coding and Tracing [English] [W9BSVltxxgQ].mp4
+-a----        27/04/2026   6:52 PM      118237608       bracu.cse111 - KNI - L14.sec8 - Static Variable Tracing [jojdhNj0650].mp4
+-a----        12/03/2026   1:21 AM      249441923       bracu.cse111 - MAU - L10 - MultiClass & Encapsulation Problem [9th March] [7FKbC9L5mX4].mp4
+-a----        17/02/2026   3:13 AM      211212974       bracu.cse111 - MAU - L2 - [9th Feb] [xFbZ4WrsX8Q].mp4
+-a----        12/03/2026  12:47 AM      392000826       bracu.cse111 - MAU - L3.mkv
+-a----        17/02/2026   2:59 AM      172323579       bracu.cse111 - QUZA - L3 - Arrays and Methods [0VQVmMqpXtI].mp4
+-a----        17/02/2026   3:00 AM      227946069       bracu.cse111 - QUZA - L4 - Intro to OOP, Instance Variables [oeRMrcxEn-0].mp4
+-a----        27/04/2026   6:11 PM       92799270       bracu.cse111 - RKBM - L14.sec7 - Static [P1TjTsKKlHE].mp4
+-a----        17/02/2026   2:30 AM      141215228       bracu.cse111 - RKBM - L4.sec7 - [I-F7B7rXcWc].mp4
+-a----        17/02/2026   2:31 AM      209121232       bracu.cse111 - RKBM - L5.sec7 - [QD6WHQO4xME].mp4
+-a----        16/02/2026   3:46 AM      207718311       bracu.cse111 - TAW - L03.sec2 - [lqpQ5JbHUO4].mp4
+-a----        16/02/2026   4:26 PM      186603263       bracu.cse111 - TAW - L03.sec3 - [lqDukT4t1mk].mp4
+-a----        17/02/2026   2:17 AM      205281391       bracu.cse111 - TAW - L03.sec4 - [ZEOS2LYaSbM].mp4
+-a----        16/02/2026   4:23 PM      266438284       bracu.cse111 - TAW - L04.sec2 - [4HWRywTpKGU].mp4
+-a----        16/02/2026   4:27 PM      231221934       bracu.cse111 - TAW - L04.sec3 - [E-rYsvfinvs].mp4
+-a----        17/02/2026   2:19 AM      294824262       bracu.cse111 - TAW - L04.sec4 - [k2IVTbi1rck].mp4
+-a----        16/02/2026   4:26 PM      318499568       bracu.cse111 - TAW - L05.sec2 - [yTV78uOEB9E].mp4
+-a----        11/03/2026   4:34 PM      221497769       bracu.cse111 - TAW - L10.Sec2 - [lHfhsiqrD1w].mp4
+-a----        11/03/2026  10:26 PM      421368542       bracu.cse111.lab2 - KNI.sp25 - (OOP Basics + Instance Variable + Instance Methods) [67Mv5jH2GnI].mp4
+-a----        12/03/2026  12:16 AM      531227007       bracu.cse111.lab4 - ANK.sec16.mkv
+-a----        12/03/2026  12:19 AM       91989421       bracu.cse111.lab4 - ATY.sec01 - midTerm Review Tracing.mkv
+-a----        12/03/2026  12:26 AM      304638530       bracu.cse111.lab4 - ATY.sec01 - midTerm Review.mkv
+-a----        12/03/2026  12:58 AM      379539946       bracu.cse111.lab4 - ATY.sec13 - midTerm Review.mkv
+-a----        11/03/2026  10:09 PM      366352300       bracu.cse111.lab4 - AVB.sec06 - 10-03-2026 [vNUS4bxGyMM].mp4
+-a----        11/03/2026  11:05 PM      408481098       bracu.cse111.lab4 - AVB.sec10 - 11-03-2026 [SVKHT6hxq-w].mp4
+-a----        11/03/2026  11:07 PM      397332493       bracu.cse111.lab4 - AVB.sec11 - 11-03-2026 [Y_RXMWaYbNc].mp4
+-a----        11/03/2026  11:20 PM      373315782       bracu.cse111.lab4 - AVB.sec15 - 10-03-2026 [NS5O5zAemqA].mp4
+-a----        11/03/2026  10:16 PM      170557258       bracu.cse111.lab4 - CRHB.sec7 - [1cZ7enL7Mig].mp4
+-a----        11/03/2026   6:24 PM      252814443       bracu.cse111.lab4 - HBN.sec5 - [Kvp1BeCZRj8].mp4
+-a----        11/03/2026  10:31 PM      106329649       bracu.cse111.lab4 - KNI.sp25 - Tracing - Quiz 3 Set A [p9rnSTXe4j4].mp4
+-a----        11/03/2026  10:32 PM      111702913       bracu.cse111.lab4 - KNI.sp25 - Tracing Task 10 [h8I-PbHQ-IA].mp4
+-a----        11/03/2026  10:33 PM      146085473       bracu.cse111.lab4 - KNI.sp25 - Tracing Task 11 [hvgitTIsO0g].mp4
+-a----        11/03/2026  10:29 PM      151293372       bracu.cse111.lab4 - KNI.sp25 - Tracing Task 9 [uXW3qBxaxPo].mp4
+-a----        14/03/2026   1:40 AM      316589520       bracu.cse111.lab4 - TAW - Task 1 [KqQY8xNxXL0].mp4
+-a----        14/03/2026   1:44 AM       78800257       bracu.cse111.lab4 - TAW - Task 3 [8TYD5pryqP0].mp4
+-a----        14/03/2026   2:02 AM      131042722       bracu.cse111.lab4 - TAW - Task 4 [s8mRmirkUnw].mp4
+-a----        14/03/2026   2:03 AM      178067465       bracu.cse111.lab4 - TAW - Task 6 [ejkKrWm-Jqc].mp4
+-a----        27/04/2026   5:15 PM       66703054       bracu.cse111.lab4 - TAW - Task 7 [IdgSKzsfC7Q].mp4
+-a----        11/03/2026  10:47 PM      699133128       bracu.cse111.lab4 - TMD.sec08.mkv
+-a----        12/03/2026   4:16 AM      487570079       bracu.cse111.lab4 - YND.sec17 [DAR8HwoceO4].mp4
+-a----        27/04/2026   6:10 PM      203974242       bracu.cse111.lab5 - AFA.sec07 - [VTsR5k32H_k].mp4
+-a----        27/04/2026   6:58 PM      816878785       bracu.cse111.lab5 - AOH - L05.sec5.mkv
+-a----        27/04/2026   6:18 PM      455718523       bracu.cse111.lab5 - CNFS.sec09 - [Btwc3hinZmo].mp4
+-a----        27/04/2026   6:06 PM      244636094       bracu.cse111.lab5 - FGZ.sec06 - 17-04-2026.mp4
+-a----        27/04/2026   6:51 PM      166810193       bracu.cse111.lab5 - KNI.sec17 - Tracing [oD5WMBGxrwo].mp4
+-a----        27/04/2026   6:49 PM      446858141       bracu.cse111.lab5 - KNI.sec17 - [iT3flP7TQTw].mp4
+-a----        27/04/2026   7:57 PM           5442       readme.md
 ```
