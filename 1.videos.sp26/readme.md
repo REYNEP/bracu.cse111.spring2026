@@ -3,7 +3,7 @@
 PS C:\Users\REY\Desktop\BRAC\bracu.cse111.spring2026\1.videos.sp26> dir
 
 
-    Directory: C:\Users\REY\Desktop\BRAC\bracu.cse111.spring2026\1.videos.sp26
+    Directory: C:\Users\REY\Desktop\BRAC\cse111\1.videos.sp26
 
 
 Mode                 LastWriteTime         Length       Name
@@ -15,7 +15,7 @@ Mode                 LastWriteTime         Length       Name
 -a----        17/02/2026   2:27 AM      221186061       bracu.cse111 - ADU - L04.sec6 - [iL1cByVS3X4].mp4
 -a----        11/03/2026   4:37 PM      162634445       bracu.cse111 - ADU - L10.sec5 - Encapsulation [oRr_sMEc2jk].mp4
 -a----        11/03/2026   4:41 PM      147725787       bracu.cse111 - ADU - L10.sec6 - Encapsulation [CjJzG-CSZnY].mp4
--a----        14/03/2026  10:08 PM      211852669       bracu.cse111 - ADU - L11.sec6 - Tracing [NnzQkitDa8U].mp4
+-a----        14/03/2026  10:08 PM      211852669       bracu.cse111 - ADU - L11.sec6 - Encapsulation Tracing [NnzQkitDa8U].mp4
 -a----        14/03/2026   1:36 AM       76586793       bracu.cse111 - AFA - L10.sec14 - [Tracing] [eHjtlCkLpfg].mp4
 -a----        17/02/2026   2:54 AM      270037925       bracu.cse111 - AIB - L03.sec11 - Objects - [r0U1QAkQ4Wc].mp4
 -a----        11/03/2026   4:51 PM      180459344       bracu.cse111 - AIB - L04.sec10 - Instance Methods 1 - [HgL_oaxA81Y].mp4
@@ -24,12 +24,15 @@ Mode                 LastWriteTime         Length       Name
 -a----        11/03/2026   5:42 PM      149878891       bracu.cse111 - AIB - L05.sec11 - Instance Methods 2 - [NtNZO6HNObM].mp4
 -a----        11/03/2026   5:35 PM      215220340       bracu.cse111 - AIB - L10.sec10 - Encapsulation - [PRtaE87h3fk].mp4
 -a----        27/04/2026   6:26 PM      186684474       bracu.cse111 - AIB - L16.sec10 - Inheritance - 24-04-2026 [AFtkfo6v5IM].mp4
+-a----        30/04/2026  12:23 PM      243959436       bracu.cse111 - AIB - L17.sec10 - Inheritance - 28-04-2026 [toString method] [f3nKNSahMsM].mp4
 -a----        16/02/2026   3:10 AM      227953392       bracu.cse111 - ANK - L02 - Arrays Review.mkv
 -a----        16/02/2026   3:27 AM      285896720       bracu.cse111 - ANK - L03 - Methods.mkv
 -a----        17/02/2026   3:11 AM      144510505       bracu.cse111 - ANK - L04 - Objects.mkv
 -a----        11/03/2026  11:48 PM      230331264       bracu.cse111 - ANK - L05 - Objects Problems.mkv
 -a----        11/03/2026  11:57 PM      278431760       bracu.cse111 - ANK - L09 - Multiclass problem.mkv
 -a----        11/03/2026  11:39 PM      256536305       bracu.cse111 - ANK - L10.mkv
+-a----        30/04/2026  11:38 AM      279652309       bracu.cse111 - ANK - L11 - Encapsulation.mkv
+-a----        30/04/2026  11:48 AM      178547060       bracu.cse111 - ANK - L12 - Encapsulation Tracing.mkv
 -a----        17/02/2026   2:39 AM      226221454       bracu.cse111 - KNI - L02.sec8 - OOP Basics [Bangla] [f7vzngXIot0].mp4
 -a----        17/02/2026   2:39 AM      197403074       bracu.cse111 - KNI - L02.sec9 - OOP Basics [English] [l9FBZ5Zraro].mp4
 -a----        17/02/2026   2:40 AM      246477176       bracu.cse111 - KNI - L03.sec8 - Instance Variable & Method [Bangla] [XgHVQLU81Co].mp4
@@ -42,13 +45,18 @@ Mode                 LastWriteTime         Length       Name
 -a----        11/03/2026  10:42 PM      219599759       bracu.cse111 - KNI - L10.sec0 - Access Modifier and Encapsulation - sp25 [VL3fBrx-GTw].mp4
 -a----        15/03/2026   3:55 PM      230535971       bracu.cse111 - KNI - L11.sec8 - Multiclass Coding Problems [Bangla] [XBoi0ywNl_o].mp4
 -a----        15/03/2026   3:56 PM      181861692       bracu.cse111 - KNI - L11.sec9 - Multiclass Coding and Tracing [English] [W9BSVltxxgQ].mp4
--a----        27/04/2026   6:52 PM      118237608       bracu.cse111 - KNI - L14.sec8 - Static Variable Tracing [jojdhNj0650].mp4
+-a----        27/04/2026   6:51 PM      166810193       bracu.cse111 - KNI - L12.sec8 - Static, Local, Instance Variable [oD5WMBGxrwo].mp4
+-a----        30/04/2026  11:17 AM      213533238       bracu.cse111 - KNI - L15.sec8 - Polymorphism [fOsQ4ZUcPfo].mp4
 -a----        12/03/2026   1:21 AM      249441923       bracu.cse111 - MAU - L10 - MultiClass & Encapsulation Problem [9th March] [7FKbC9L5mX4].mp4
+-a----        30/04/2026  10:30 AM       17651877       bracu.cse111 - MAU - L11 - Package and Encapsulation [-Ko6zecTAoE].mp4
+-a----        30/04/2026  11:04 AM      123336428       bracu.cse111 - MAU - L13 - Inheritence.mkv
+-a----        30/04/2026  10:59 AM      330731877       bracu.cse111 - MAU - L15 - Polymorphism.mkv
 -a----        17/02/2026   3:13 AM      211212974       bracu.cse111 - MAU - L2 - [9th Feb] [xFbZ4WrsX8Q].mp4
 -a----        12/03/2026  12:47 AM      392000826       bracu.cse111 - MAU - L3.mkv
 -a----        17/02/2026   2:59 AM      172323579       bracu.cse111 - QUZA - L3 - Arrays and Methods [0VQVmMqpXtI].mp4
 -a----        17/02/2026   3:00 AM      227946069       bracu.cse111 - QUZA - L4 - Intro to OOP, Instance Variables [oeRMrcxEn-0].mp4
 -a----        27/04/2026   6:11 PM       92799270       bracu.cse111 - RKBM - L14.sec7 - Static [P1TjTsKKlHE].mp4
+-a----        30/04/2026  12:16 PM      223506390       bracu.cse111 - RKBM - L16.sec7 - POLYMORPHISM [rBwR1bsmPlk].mp4
 -a----        17/02/2026   2:30 AM      141215228       bracu.cse111 - RKBM - L4.sec7 - [I-F7B7rXcWc].mp4
 -a----        17/02/2026   2:31 AM      209121232       bracu.cse111 - RKBM - L5.sec7 - [QD6WHQO4xME].mp4
 -a----        16/02/2026   3:46 AM      207718311       bracu.cse111 - TAW - L03.sec2 - [lqpQ5JbHUO4].mp4
@@ -59,6 +67,7 @@ Mode                 LastWriteTime         Length       Name
 -a----        17/02/2026   2:19 AM      294824262       bracu.cse111 - TAW - L04.sec4 - [k2IVTbi1rck].mp4
 -a----        16/02/2026   4:26 PM      318499568       bracu.cse111 - TAW - L05.sec2 - [yTV78uOEB9E].mp4
 -a----        11/03/2026   4:34 PM      221497769       bracu.cse111 - TAW - L10.Sec2 - [lHfhsiqrD1w].mp4
+-a----        30/04/2026  11:11 AM      242269556       bracu.cse111 - TAW - L15.Sec2 - Runtime Polymorphism [Rg9wVXZ0ib4].mp4
 -a----        11/03/2026  10:26 PM      421368542       bracu.cse111.lab2 - KNI.sp25 - (OOP Basics + Instance Variable + Instance Methods) [67Mv5jH2GnI].mp4
 -a----        12/03/2026  12:16 AM      531227007       bracu.cse111.lab4 - ANK.sec16.mkv
 -a----        12/03/2026  12:19 AM       91989421       bracu.cse111.lab4 - ATY.sec01 - midTerm Review Tracing.mkv
@@ -82,10 +91,17 @@ Mode                 LastWriteTime         Length       Name
 -a----        11/03/2026  10:47 PM      699133128       bracu.cse111.lab4 - TMD.sec08.mkv
 -a----        12/03/2026   4:16 AM      487570079       bracu.cse111.lab4 - YND.sec17 [DAR8HwoceO4].mp4
 -a----        27/04/2026   6:10 PM      203974242       bracu.cse111.lab5 - AFA.sec07 - [VTsR5k32H_k].mp4
--a----        27/04/2026   6:58 PM      816878785       bracu.cse111.lab5 - AOH - L05.sec5.mkv
+-a----        30/04/2026  12:38 PM      428786578       bracu.cse111.lab5 - AIB.sec01 - 16-04-2026 [bimvH0aOKFA].mp4
+-a----        27/04/2026   6:58 PM      816878785       bracu.cse111.lab5 - AOH.sec05 - 16-04-2026.mkv
 -a----        27/04/2026   6:18 PM      455718523       bracu.cse111.lab5 - CNFS.sec09 - [Btwc3hinZmo].mp4
--a----        27/04/2026   6:06 PM      244636094       bracu.cse111.lab5 - FGZ.sec06 - 17-04-2026.mp4
--a----        27/04/2026   6:51 PM      166810193       bracu.cse111.lab5 - KNI.sec17 - Tracing [oD5WMBGxrwo].mp4
+-a----        30/04/2026  11:30 AM      244358630       bracu.cse111.lab5 - FGZ.sec06 - 17-04-2026.mkv
+-a----        27/04/2026   6:52 PM      118237608       bracu.cse111.lab5 - KNI - Static Tracing 1 [jojdhNj0650].mp4
+-a----        30/04/2026  11:23 AM      137736040       bracu.cse111.lab5 - KNI - Static Tracing 2 [6hDfJylqYwU].mp4
+-a----        30/04/2026  11:25 AM       78376970       bracu.cse111.lab5 - KNI - Static Tracing 3 [-YOnUocLtcY].mp4
+-a----        30/04/2026  11:27 AM       85501930       bracu.cse111.lab5 - KNI - Static Tracing 4 [KhjS5Mcr8Ng].mp4
 -a----        27/04/2026   6:49 PM      446858141       bracu.cse111.lab5 - KNI.sec17 - [iT3flP7TQTw].mp4
--a----        27/04/2026   7:57 PM           5442       readme.md
+-a----        30/04/2026  11:27 AM       64193169       bracu.cse111.lab6 - KNI - Inheritance Tracing 1 [TC6EJS-JqU0].mp4
+-a----        30/04/2026  11:28 AM       61826688       bracu.cse111.lab6 - KNI - Inheritance Tracing 2 [tQastAVEdMA].mp4
+-a----        30/04/2026  11:29 AM       77088029       bracu.cse111.lab6 - KNI - Inheritance Tracing 3 [RTq9mlYhWw4].mp4
+-a----        27/04/2026   7:59 PM           9580       readme.md
 ```

@@ -13,6 +13,7 @@
 
 ### TODO:
 - Upload Videos that are not on youtube
+- Update MAU Quiz Spring2026: https://docs.google.com/document/d/1aC9ft1vJq7YP-Kjb02v1Y1JhTSQUxtTazwrt5Ly5tgg/edit?tab=t.dzvg9v8wwbjq
 
 ### Recommendation
 0. Take TAW > AVB > MAU > SLAR > ADU > RKBM > ANK > AFA
@@ -51,18 +52,48 @@ feb 09 - L02: cse110 ReCap + OOP Start
 feb 16 - L03: OOP Class-Member Variables & Methods
 feb 18 - L04: this
 feb 23 - L05: Practice
-mar 25 - L06: Constructor Overloading
+feb 25 - L06: Constructor Overloading
 mar 02 - L07: Tracing
 mar 04 - L08: private, MultiClass
 mar 09 - L09: MultiClass (continued)
 mar 11 - L10: private (Encapsulation-Package)
-mar 28 - L11: quiz1
+mar 28 - L11: quiz 1 + 2
+apr 08 - L12: Static
+apr 13 - L13: class cancelled {}
+apr 15 - L13: Inheritence
+apr 20 - L14: Inheritence + toString()
+apr 22 - L15: quiz 3 + Inheritence
+apr 27 - L16: Polymorphism
+apr 29 - L17: quiz 4 (cancelled) + Polymorphism
+may 04 - L18: quiz 4
+may 06 - L19: quiz 5
+```
+
+### Labs
+```cpp
+feb 10 - Lab0: doesnt happen @ BRAC ✖️
+
+feb 17 - Lab1: OOP Intro
+feb 24 - Lab2: this
+mar 03 - Lab3: Constructor
+mar 10 - Lab4: private MultiClass
+
+apr 14 - Lab5: class cancelled {} ✖️
+apr 16 - Lab5: Static
+
+apr 21 - Lab6: Inheritance + Lab Quiz 2
+apr 28 - Lab7: overriding + Lab Quiz 3
+may 05 - Lab8: polymorphism + Lab Quiz 4
+
+may 12 - Lab9: cant happen, ran outta time ✖️
 ```
 
 ### Resources
 - Books: https://drive.google.com/drive/folders/1XbLzDkrjR1nzO5CErs9RkuA94sIn01be
 - BuX / TAW: https://www.youtube.com/playlist?list=PLvr0Ht-XkB_3QPWYBje6NqEs3QLj_0vpf
-- KNI: https://www.youtube.com/playlist?list=PLR0j6NckpKjyNO579D4P4qCGBSlY8Ous5
+- TAW & KNI sp26: https://www.youtube.com/playlist?list=PLR0j6NckpKjyNO579D4P4qCGBSlY8Ous5
+- KNI: 
+    - cse111 tracing: https://www.youtube.com/playlist?list=PLr4zrTlldjgo4fN9fRZB65xcJgyVC7B11
 - RAK: https://www.youtube.com/playlist?list=PLkqsZdV3LRJTuZRThm0UzJzCcytnQmyRY
 - Python Slides + Official Notes: https://github.com/mebmrauf/CSE111-Programming-Language-II
 
